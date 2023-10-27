@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Deepika Kanwar<span class="wave">👋</span></h1>
+<h1 align="center">Hello world, I'm Deepika Kanwar <span class="wave">👋</span></h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanwardeepika91&label=Profile%20views&color=0e75b6&style=flat" alt="kanwardeepika91" /> </p>
